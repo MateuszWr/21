@@ -8,7 +8,7 @@ class Main {
         system.out.print(" ");
       }
       System.out.println();
-
+ 
 
       
     }
